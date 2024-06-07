@@ -63,13 +63,28 @@
 
 ### 🌴 JavaScript Jungle
 
-| Nombre          | Link                                                   | Descripción                                                 |
-| --------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
-| MDN Web Docs    | [developer.mozilla.org](https://developer.mozilla.org) | Documentación y recursos para desarrolladores web.          |
-| JavaScript.info | [javascript.info](https://javascript.info)             | Tutoriales detallados de JavaScript.                        |
-| Node.js         | [nodejs.org](https://nodejs.org)                       | Entorno de ejecución para JavaScript del lado del servidor. |
-| D3.js           | [d3js.org](https://d3js.org)                           | Librería para manipular documentos basados en datos.        |
-| Moment.js       | [momentjs.com](https://momentjs.com)                   | Librería para manejar fechas y horas en JavaScript.         |
+| Nombre        | Link                                               | Descripción                                                                               |
+| ------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| React         | [reactjs.org](https://reactjs.org)                 | Librería para construir interfaces de usuario.                                            |
+| Vue.js        | [vuejs.org](https://vuejs.org)                     | Framework progresivo para construir interfaces de usuario.                                |
+| Angular       | [angular.io](https://angular.io)                   | Plataforma para aplicaciones web dinámicas.                                               |
+| jQuery        | [jquery.com](https://jquery.com)                   | Librería rápida, pequeña y repleta de características para JavaScript.                    |
+| Chart.js      | [chartjs.org](https://www.chartjs.org)             | Librería para crear gráficos interactivos y personalizables.                              |
+| Axios         | [axios-http.com](https://axios-http.com)           | Cliente HTTP basado en promesas para el navegador y Node.js.                              |
+| Redux         | [redux.js.org](https://redux.js.org)               | Biblioteca de manejo de estado para aplicaciones JavaScript.                              |
+| Lodash        | [lodash.com](https://lodash.com)                   | Colección de utilidades de JavaScript que facilitan la manipulación de datos.             |
+| Three.js      | [threejs.org](https://threejs.org)                 | Biblioteca para crear gráficos 3D interactivos en el navegador.                           |
+| Phaser        | [phaser.io](https://phaser.io)                     | Framework para crear juegos HTML5 de alta calidad.                                        |
+| TensorFlow.js | [tensorflow.org/js](https://www.tensorflow.org/js) | Biblioteca de aprendizaje automático de código abierto para JavaScript.                   |
+| GreenSock     | [greensock.com](https://greensock.com)             | Biblioteca para animaciones HTML5 extremadamente alto rendimiento.                        |
+| Babylon.js    | [babylonjs.com](https://www.babylonjs.com)         | Motor de renderizado en tiempo real para crear gráficos 3D interactivos en el navegador.  |
+| PixiJS        | [pixijs.com](https://www.pixijs.com)               | Motor de renderizado 2D para el navegador y Node.js.                                      |
+| Socket.io     | [socket.io](https://socket.io)                     | Biblioteca para aplicaciones web en tiempo real con WebSocket.                            |
+| Webpack       | [webpack.js.org](https://webpack.js.org)           | Empaquetador de módulos estáticos para aplicaciones JavaScript modernas.                  |
+| Ramda         | [ramdajs.com](https://ramdajs.com)                 | Librería funcional de JavaScript para programación funcional en un estilo funcional puro. |
+| Phaser        | [phaser.io](https://phaser.io)                     | Framework para crear juegos HTML5 de alta calidad.                                        |
+| P5.js         | [p5js.org](https://p5js.org)                       | Biblioteca para crear gráficos y visualizaciones interactivas.                            |
+| Babylon.js    | [babylonjs.com](https://www.babylonjs.com)         | Motor de renderizado en tiempo real para crear gráficos 3D interactivos en el navegador.  |
 
 ### ✍️ Estilo de Código
 
